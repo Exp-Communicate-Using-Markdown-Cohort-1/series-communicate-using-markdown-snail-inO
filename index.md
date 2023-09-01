@@ -7,3 +7,5 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] be optimistic
+- [ ] be active
